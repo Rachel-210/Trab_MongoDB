@@ -4,7 +4,7 @@ from pymongo import MongoClient
 from bson.objectid import ObjectId
 
 # Conectando ao MongoDB Atlas 
-MONGO_URI = "mongodb+srv://liastudy12_db_user:PaPBKGVs6ncdXjfl@cluster0.xs7cwtn.mongodb.net"
+MONGO_URI = ""
 
 try:
     client = MongoClient(MONGO_URI)
