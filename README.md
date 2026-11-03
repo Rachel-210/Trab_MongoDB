@@ -43,8 +43,8 @@ Os registros são salvos na coleção `cardapio` dentro do banco de dados `ifood
 
 ### 1. Clonar o Repositório
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/usuario/repositorio.git
+cd repositorio
 ```
 
 ### 2. Instalar as Dependências
